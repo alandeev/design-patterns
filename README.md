@@ -17,5 +17,5 @@ ___
 - Learning...  ' later I will come back here to update what I learned '
 
 ## Learned 💖
-- nothing yet, because i started now :D
+- [🟦] - Singleton - 'unique instance'
 ___
