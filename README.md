@@ -14,8 +14,9 @@ ___
 
 
 ## Progress 💙
-- Learning...  ' later I will come back here to update what I learned '
+- Prototype Pattern
 
 ## Learned 💖
 - [🟦] - Singleton - 'unique instance'
+- [🟧] - Builder / Composite
 ___

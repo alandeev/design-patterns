@@ -1,5 +1,6 @@
 {
+  "code-runner.runInTerminal": true,
   "code-runner.executorMap": {
-    "typescript": "cls && npx ts-node --files --transpile-only",
+    "typescript": "npx ts-node --files --transpile-only",
   }
 }
