@@ -12,7 +12,6 @@ ___
 🟧 - hard
 ```
 
-
 ## Progress 💙
 - Factory Method
 
