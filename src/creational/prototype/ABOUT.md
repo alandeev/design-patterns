@@ -7,9 +7,14 @@
 
 [ ] - learning..
 ___
-
 ## When i use? 🤔
+- É tipicamente usado para evitar a recriação de objetos "caros"
+- Ajuda a evitar a explosão de subclasses
 
 ## Good :)
+- Oculta classes concretas do código cliente
+- Ajuda na criação de objetos caros ou complexos
+- Evita a explosão de subclasses
 
 ## Bad :(
+- Clonar objetos que tem referências para outros objetos pode ser super complexo

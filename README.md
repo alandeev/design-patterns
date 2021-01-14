@@ -14,9 +14,10 @@ ___
 
 
 ## Progress 💙
-- Prototype Pattern
+- Factory Method
 
 ## Learned 💖
 - [🟦] - Singleton - 'unique instance'
 - [🟧] - Builder / Composite
+- [🟨] - Prototype
 ___
